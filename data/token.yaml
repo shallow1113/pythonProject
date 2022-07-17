@@ -1,0 +1,10 @@
+-
+  name:  获取access_token
+  method: get
+  url: https://qyapi.weixin.qq.com/cgi-bin/gettoken
+  headers: 'None'
+  params:
+    corpid: wwaac816fa2c20606d
+    corpsecret: mTITPKlniR4xM_KWx4spBuJEfw_ZRTiMuFO73pIZuu0
+  validate: 'None'
+

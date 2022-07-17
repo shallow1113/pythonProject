@@ -1,0 +1,14 @@
+-
+  name: 添加会议室
+  method: post
+  url: https://qyapi.weixin.qq.com/cgi-bin/oa/meetingroom/add?access_token=
+  headers: 'None'
+  json: { "name": "658F-会议室","capacity": 10 }
+  validate: 'None'
+-
+    name: 添加会议室
+    method: post
+    url: https://qyapi.weixin.qq.com/cgi-bin/oa/meetingroom/add?access_token=
+    headers: 'None'
+    json: { "name": "978F-会议室","capacity": 10 }
+    validate: 'None'
